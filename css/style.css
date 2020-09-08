@@ -172,6 +172,7 @@ figure .cta1 a{
 }
 
 .coluna.dois .profile{
+  margin-left: 20%;
   border-radius: 100%;
   width: auto;
 }
